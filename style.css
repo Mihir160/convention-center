@@ -1,0 +1,46 @@
+.navbar-brand{
+    font-size: 22px;
+    font-weight: 700;
+}
+.nav-item{
+    font-weight: 500;
+    font-size: 16px;
+    
+} 
+ .carousel-caption{
+    padding-bottom: 200px;
+}  
+.carousel-caption h1{
+    font-weight: 600;
+    font-size: 48px;
+}
+.carousel-caption p{
+    font-weight: 300;
+    font-size: 16px; 
+}
+.precious h1{
+    font-weight: 700;
+    font-size: 38px;
+}
+.precious p{
+    font-weight: 600;
+    font-size: 16px;
+}
+.precious button{
+    font-weight: 700;
+    font-size: 16px;
+}
+i {
+    margin-right: 10px;
+  
+  }
+  li{
+    font-size: 18px;
+  }
+.craft{
+    font-size: 19px;
+}
+
+@media screen and (max-width:688px) {
+  
+}
