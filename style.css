@@ -40,7 +40,17 @@ i {
 .craft{
     font-size: 19px;
 }
-
+.position{
+   margin-top: -50px;
+   margin-left: 200px;
+   
+}
+.question{
+    margin-top: 20px;
+} 
+.footer-p{
+    margin-top: 15%;
+}
 @media screen and (max-width:688px) {
   
 }
